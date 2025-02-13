@@ -1,3 +1,15 @@
+// SY_TextSplitter.jsx
+// ===========================================================
+// █▀▀░█░█░░░░░▀█▀░█▀▀░█░█░▀█▀░█▀▀░█▀█░█░░░▀█▀░▀█▀░▀█▀░█▀▀░█▀▄
+// ▀▀█░░█░░░░░░░█░░█▀▀░▄▀▄░░█░░▀▀█░█▀▀░█░░░░█░░░█░░░█░░█▀▀░█▀▄
+// ▀▀▀░░▀░░▀▀▀░░▀░░▀▀▀░▀░▀░░▀░░▀▀▀░▀░░░▀▀▀░▀▀▀░░▀░░░▀░░▀▀▀░▀░▀
+// made with love by Zain Aldin aka Sphiment <3
+// ===========================================================
+//  1 = split by lines
+//  2 = split by words
+//  3 = split by characters 
+// ===========================================================
+
 (function(thisObj) {
 
 function SY_TextSplitter(mode) {
@@ -312,7 +324,7 @@ layer.property("Position").setValue([pos[0] + delta[0], pos[1] + delta[1]]);
  function buildUI(thisObj) {
         var panel = (thisObj instanceof Panel)
             ? thisObj
-            : new Window("palette", "SY_TextSplitter-v1.jsx", undefined, { resizable: true });
+            : new Window("palette", "SY_TextSplitter.jsx", undefined, { resizable: true });
 
         if (panel) {
             panel.orientation = "column";
