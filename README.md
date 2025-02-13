@@ -2,7 +2,7 @@
 
 # Syria Scripts
 
-A library of After Effects scripts I've created—and will keep creating—to improve my workflow.
+A library of free and open source After Effects scripts I've made to improve my workflow.
 ## Donations
 You can support me by donating to Palestinian refugees [here](https://idrf.ca/appeal/palestine/)
 ## Contributing
@@ -14,3 +14,4 @@ Contributions are always welcome!
 - Different spliting modes (lines, words and characters)
 - Automatic RTL text support
 - Cross platform (Windows, Mac)
+### Downloads
