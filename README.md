@@ -1,3 +1,4 @@
+![Logo](https://cdn.discordapp.com/attachments/1267849154747695116/1339521113130012745/reala.jpg?ex=67af05c0&is=67adb440&hm=170591cbc404f617945fe4e35405419f00ab57172a0e2c902374e77e5a890638&)
 
 # Syria Scripts
 
