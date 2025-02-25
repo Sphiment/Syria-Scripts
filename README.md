@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Sphiment/Syria-Scripts/refs/heads/main/banner.jpg)
+![Logo](https://raw.githubusercontent.com/Sphiment/Syria-Scripts/refs/heads/main/media/banner.jpg)
 
 # Syria Scripts
 
