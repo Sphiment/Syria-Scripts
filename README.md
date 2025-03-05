@@ -14,3 +14,10 @@ Contributions are always welcome!
 - Different spliting modes (lines, words and characters)
 - Automatic RTL text support
 - Cross platform (Windows, Mac)
+
+## [SY_Proximity.jsx](https://github.com/Sphiment/Syria-Scripts/blob/main/Scripts/SY_Proximity.jsx)
+![Script Screenshot](https://raw.githubusercontent.com/Sphiment/Syria-Scripts/refs/heads/main/media/SY_Proximity.gif)
+#### Features:
+- Works with all properties (YES even custom plugins, colors, 3D properties, effects, and other scripts, etc)
+- Very customizable
+- Cross platform (Windows, Mac)
