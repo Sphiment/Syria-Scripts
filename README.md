@@ -15,7 +15,7 @@ Contributions are always welcome!
 - Automatic RTL text support
 - Cross platform (Windows, Mac)
 
-## [SY_Proximity.jsx](https://github.com/Sphiment/Syria-Scripts/blob/main/Scripts/SY_Proximity.jsx)
+## [SY_Proximity.jsx](https://github.com/Sphiment/Syria-Scripts/blob/main/Scripts/SY_Proximity.jsx) (inspired by Masd LAB's Area Sense)
 ![Script Screenshot](https://raw.githubusercontent.com/Sphiment/Syria-Scripts/refs/heads/main/media/SY_Proximity.gif)
 #### Features:
 - Works with all properties (YES even custom plugins, colors, 3D properties, effects, and other scripts, etc)
