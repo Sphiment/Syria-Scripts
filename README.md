@@ -4,7 +4,7 @@
 
 A library of free and open source After Effects scripts I've made to improve my workflow.
 ## Donations
-You can support me by donating to Palestinian refugees [here](https://www.palestinercs.org/en/Donation)
+You can support me by donating to Gaza [here](https://www.palestinercs.org/en/Donation)
 ## Contributing
 Contributions are always welcome!
 
