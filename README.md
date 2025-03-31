@@ -21,3 +21,12 @@ Contributions are always welcome!
 - Works with all properties (YES even custom plugins, colors, 3D properties, effects, and other scripts, etc)
 - Very customizable
 - Cross platform (Windows, Mac)
+
+## [SY_Highlight.jsx](https://github.com/Sphiment/Syria-Scripts/blob/main/Scripts/SY_Highlight.jsx)
+![Script Screenshot](https://raw.githubusercontent.com/Sphiment/Syria-Scripts/refs/heads/main/media/SY_Highlight.gif)
+#### Features:
+- Animation duration is calculated based on the length of the text, with customizable overlaping options
+- 2 points (vertices) path for each text line in one shape
+- Storke width calculated from the text’s baseline to its bounding box
+- Dynamic RTL detection and support
+- Cross platform (Windows, Mac)
